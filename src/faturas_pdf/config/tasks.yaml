@@ -1,0 +1,27 @@
+tarefa_extracao_dados:
+  description: >
+    Analise o texto extraído do arquivo PDF fornecido pelas ferramentas.
+
+    O texto bruto está delimitado por triplas aspas: """{conteudo_pdf}"""
+
+    Sua missão é localizar:
+    1. Nome do Emissor (Empresa).
+    2. CNPJ (apenas números).
+    3. Data de Emissão (formato YYYY-MM-DD).
+    4. Data de Vencimento (formato YYYY-MM-DD).
+    5. Valor Total (use ponto para decimais, ex: 1500.50).
+    6. Itens principais descritos (resumo curto).
+
+    Regra Crítica: Se o valor não estiver claro, procure por termos como
+    "Total a Pagar", "Valor Líquido" ou "Total da Nota".
+  expected_output: >
+    Um objeto JSON estrito, sem textos adicionais antes ou depois, seguindo este esquema:
+    {
+      "empresa": "string",
+      "cnpj": "string",
+      "emissao": "YYYY-MM-DD",
+      "vencimento": "YYYY-MM-DD",
+      "valor": 1500.50,
+      "descricao": "string"
+    }
+  agent: analista_faturamento

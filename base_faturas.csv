@@ -1,0 +1,10 @@
+empresa,cnpj,emissao,vencimento,valor,descricao
+ENERGIA-LIVRE DISTRIBUIÇÃO S.A.,44555666000177,2026-04-05,2026-04-20,312.44,"Conta de Consumo de Energia Elétrica, Histórico de Consumo e Dados de Pagamento"
+PAPELARIA E SUPRIMENTOS DO BRASIL,98765432000110,2026-04-15,2026-04-30,1725.0,"Item 01: Cadeira Ergonômica Pro (1 un)...... R$ 1.200,00
+Item 02: Teclado Mecânico RGB (2 un)........ R$ 400,00
+Item 03: Mouse Pad XL (1 un)................ R$ 80,00"
+ENERGIA-LIVRE DISTRIBUIÇÃO S.A.,44555666000177,2026-04-05,2026-04-20,312.44,Conta de Consumo de Energia Elétrica
+SOLUÇÕES DIGITAIS CLOUD LTDA,12456780000190,2026-04-10,2026-04-25,670.5,"Hospedagem Dedicada (Março/2026), Certificados SSL (Anual), Suporte Premium 24/7"
+PAPELARIA E SUPRIMENTOS DO BRASIL,9876543200101,2026-04-15,2026-04-30,1725.0,"ITENS: cadeira ergonomica pro (1 un), teclado mecanico rgb (2 un), mouse pad xl (1 un)","SOLUÇÕES DIGITAIS CLOUD LTDA CNPJ 12.345.6780001-90 Endereço Av. Paulista, 1000 - São Paulo, SP FATURA DE SERVIÇOS #99821 -------------------------------------------------- CLIENTE Marques Dev S.A (1).pdf"
+ENERGIA-LIVRE DISTRIBUIÇÃO S.A.,44555667000177,2026-04-05,2026-04-20,312.44,"Conta de Consumo de Energia Elétrica, Mês de Referência Abril/2026","SOLUÇÕES DIGITAIS CLOUD LTDA CNPJ 12.345.6780001-90 Endereço Av. Paulista, 1000 - São Paulo, SP FATURA DE SERVIÇOS #99821 -------------------------------------------------- CLIENTE Marques Dev S.A (2).pdf"
+SOLUÇÕES DIGITAIS CLOUD LTDA,12456780001-90,2026-04-10,2026-04-25,670.5,"Hospedagem Dedicada (Março/2026).......... R$ 450,00; Certificados SSL (Anual).................. R$ 120,50; Suporte Premium 24/7...................... R$ 100,00","SOLUÇÕES DIGITAIS CLOUD LTDA CNPJ 12.345.6780001-90 Endereço Av. Paulista, 1000 - São Paulo, SP FATURA DE SERVIÇOS #99821 -------------------------------------------------- CLIENTE Marques Dev S.A.pdf"
