@@ -111,7 +111,7 @@ python main.py
 
 ## Caminho atual dos PDFs
 
-No momento, o projeto busca os arquivos PDF nesta pasta fixa dentro do [main.py](C:\Users\marqu\Desktop\ProjetoPessoais\faturas_pdf\main.py):
+No momento, o projeto busca os arquivos PDF nesta pasta fixa dentro do [main.py](C:\Users\SeuUSER\Desktop\faturas_pdf\main.py):
 
 ```python
 pasta_pdfs = "C:/Users/marqu/Desktop/ProjetoPessoais/teste_faturas"
